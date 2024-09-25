@@ -458,7 +458,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KNCFHXFX
 
 [Document25]
-DocumentPath=eMMC_SHEET.SchDoc
+DocumentPath=eMMC_SPI-FLASH_SHEET.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -475,7 +475,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UNNEQDXH
 
 [Document26]
-DocumentPath=eMMC_SHEET.Harness
+DocumentPath=eMMC_SPI-FLASH_SHEET.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -765,6 +765,23 @@ DocumentUniqueId=
 
 [Document43]
 DocumentPath=USB2.0_SHEET.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document44]
+DocumentPath=POWER_OTHER_SHEET.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
