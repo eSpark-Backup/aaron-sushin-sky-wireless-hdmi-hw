@@ -1,0 +1,59 @@
+Change Component DesignItemId : Designator=R111 Old DesignItemId=RC0402FR-074K7L New DesignItemId=RC0201FR-074K7L
+Change Component DesignItemId : Designator=R112 Old DesignItemId=RC0402FR-074K7L New DesignItemId=RC0201FR-074K7L
+Change Component DesignItemId : Designator=R110 Old DesignItemId=RC0402FR-0710KL New DesignItemId=RC0201FR-0710KL
+Change Component Footprint: Designator=R110 Old Footprint=Res-0402 New Footprint=Res-0201
+Change Component Footprint: Designator=R111 Old Footprint=Res-0402 New Footprint=Res-0201
+Change Component Footprint: Designator=R112 Old Footprint=Res-0402 New Footprint=Res-0201
+Change Component Description : Designator=R111 Old Description=RES 4.7K OHM 1% 1/16W 0402 New Description=RES 4.7K OHM 1% 1/20W 0201
+Change Component Description : Designator=R112 Old Description=RES 4.7K OHM 1% 1/16W 0402 New Description=RES 4.7K OHM 1% 1/20W 0201
+Change Component Description : Designator=R110 Old Description=RES 10K OHM 1% 1/16W 0402 New Description=RES SMD 10K OHM 1% 1/20W 0201
+Change component parameters: Designator = "R110" ("R110"); Footprint = "Res-0402"; UniqueID = "\NKGVWGKI" ("\NKGVWGKI")
+Change component parameters (AddParameter): Name = "ComponentLink7Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink7URL"; Value = "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0201FR-0710KL_C106225.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C106225"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0201FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R111" ("R111"); Footprint = "Res-0402"; UniqueID = "\QKJPXXDR" ("\QKJPXXDR")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493811.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493811.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493812.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493812.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493813.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493813.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/8892/pyu-rc0201-51-rohs-l-8-8892942.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/8892/pyu-rc0201-51-rohs-l-8-8892942.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/7672/1563626-7672233.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/7672/1563626-7672233.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C138135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0201FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "10000=0.0014, 50000=0.0013, 250000=0.0013, 750000=0.0012, 2000000=0.0011 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "1610000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "7537285"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R112" ("R112"); Footprint = "Res-0402"; UniqueID = "\BNTUTSQM" ("\BNTUTSQM")
+Change component parameters (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493811.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493811.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493812.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493812.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493813.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/2493/pyu-r-int-thick-7-2493813.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/8892/pyu-rc0201-51-rohs-l-8-8892942.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/8892/pyu-rc0201-51-rohs-l-8-8892942.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/7672/1563626-7672233.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/7672/1563626-7672233.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C138135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0201FR-074K7L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "10000=0.0014, 50000=0.0013, 250000=0.0013, 750000=0.0012, 2000000=0.0011 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "1610000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Future Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number"; Value = "7537285"; VariantName = "[No Variations]"

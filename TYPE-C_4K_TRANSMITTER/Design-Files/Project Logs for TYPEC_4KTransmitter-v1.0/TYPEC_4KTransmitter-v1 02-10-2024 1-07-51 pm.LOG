@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=SB2 Old DesignItemId=Solder Bridge 0402 New DesignItemId=Solder Bridge 0603
+Change Component Footprint: Designator=SB2 Old Footprint=Solder Bridge 0402 New Footprint=Solder Bridge
+Change Component Comment : Designator=SB2 Old Comment=Solder Bridge 0402 New Comment=Solder Bridge 0603
+Change component parameters: Designator = "SB2" ("SB2"); Footprint = "Solder Bridge 0402"; UniqueID = "\CWXTXGKZ" ("\CWXTXGKZ")
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Solder Bridge"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "Solder Bridge"; VariantName = "[No Variations]"
