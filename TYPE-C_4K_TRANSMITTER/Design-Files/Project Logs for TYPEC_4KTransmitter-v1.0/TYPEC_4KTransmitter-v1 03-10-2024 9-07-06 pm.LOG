@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC0V6_DDR Pin=C246-2
+Removed Pin From Net: NetName=VCC0V6_DDR Pin=C248-2
+Added Pin To Net: NetName=VCC_DDR Pin=C246-2
+Added Pin To Net: NetName=VCC_DDR Pin=C248-2
+Added Member To Class: ClassName=DRAM_LPDDR4_SHEET Member=Component C246 0.1uF
+Added Member To Class: ClassName=DRAM_LPDDR4_SHEET Member=Component C248 0.1uF
