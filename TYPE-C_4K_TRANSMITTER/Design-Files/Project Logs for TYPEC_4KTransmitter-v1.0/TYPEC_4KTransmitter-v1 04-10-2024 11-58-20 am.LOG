@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC0V6_DDR Pin=C198-2
+Removed Pin From Net: NetName=VCC0V6_DDR Pin=C200-2
+Added Pin To Net: NetName=VCC0V6 Pin=C198-2
+Added Pin To Net: NetName=VCC0V6 Pin=C200-2
