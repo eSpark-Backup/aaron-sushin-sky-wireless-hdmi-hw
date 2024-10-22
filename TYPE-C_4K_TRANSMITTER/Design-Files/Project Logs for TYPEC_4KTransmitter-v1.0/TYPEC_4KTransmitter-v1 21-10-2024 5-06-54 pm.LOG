@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=MIPI_CSI_MCLK1 Pin=TP17-1
-Removed Pin From Net: NetName=MIPI_CSI_MCLK1 Pin=U1-AB2
-Removed Pin From Net: NetName=MIPI_CSI_MCLK1 Pin=U1-AH2
-Added Pin To Net: NetName=MIPI_CSI_MCLK1 Pin=U1-1N1
-Added Pin To Net: NetName=MIPI_CSI_MCLK0 Pin=TP17-1
-Added Pin To Net: NetName=MIPI_CSI_MCLK0 Pin=U1-AB2
-Added Net: Name=MIPI_CSI_MCLK0

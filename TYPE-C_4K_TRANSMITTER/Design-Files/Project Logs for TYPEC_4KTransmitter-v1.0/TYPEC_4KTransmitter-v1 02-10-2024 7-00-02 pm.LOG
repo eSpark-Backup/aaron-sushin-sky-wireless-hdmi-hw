@@ -1,9 +1,0 @@
-Added Rule: Name=Schematic Impedance Constraint
-Added Rule: Name=Schematic Impedance Constraint_1
-Added Rule: Name=Schematic Impedance Constraint_2
-Added Rule: Name=Schematic Impedance Constraint_4
-Added Rule: Name=Schematic Matched Net Lengths
-Added Rule: Name=Schematic Matched Net Lengths_1
-Added Rule: Name=Schematic Matched Net Lengths_2
-Added Class: Name=MIPI_LINES_100
-Change Class Name : Old Net Name=DP_LINES New Net Name=DP_LINES_100

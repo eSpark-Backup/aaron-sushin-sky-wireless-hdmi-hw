@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=VDDA0V9_PMU Pin=C132-1
-Removed Pin From Net: NetName=GND Pin=C132-2
-Removed Member From Class: ClassName=RK3566_OSC_PMUIO_SHEET Member=C132
