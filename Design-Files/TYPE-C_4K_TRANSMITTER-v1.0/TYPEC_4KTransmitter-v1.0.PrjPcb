@@ -831,6 +831,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HCMUEEBU
 
+[Document47]
+DocumentPath=TYPEC_4KTransmitter-v1.0(NEW).PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MWTGZPDN
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MVP-Dash-v1.0\BGA Escape Route - MVP-Dash-v1.html
 DItemRevisionGUID=
