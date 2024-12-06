@@ -1,0 +1,6 @@
+Layer Pairs Export File for PCB: C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\aaronsushinsky-wirelesshdmi-hw\Design-Files\TYPE-C_4K_TRANSMITTER-v1.0\TYPEC_4KTransmitter-v1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=typec_4ktransmitter-v1.0-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=typec_4ktransmitter-v1.0-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,gbl
+LayersSetName=Top_Signal L1_Blind_Vias|DrillFile=typec_4ktransmitter-v1.0-roundholes.tx1|DrillLayers=gtl,g1,g2
+LayersSetName=Signal L1_Signal L2_Buried_Vias|DrillFile=typec_4ktransmitter-v1.0-roundholes.tx2|DrillLayers=g2,g3,g4,g5,g6,g7
+LayersSetName=Signal L2_Bot_Blind_Vias|DrillFile=typec_4ktransmitter-v1.0-roundholes.tx3|DrillLayers=g7,g8,gbl
